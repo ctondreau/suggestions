@@ -1,3 +1,4 @@
 Django == 2.1.2
 gunicorn
 django-heroku
+django-widget-tweaks
